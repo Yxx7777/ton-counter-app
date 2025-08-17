@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom/client'
 import { TonConnectUIProvider } from '@tonconnect/ui-react'
 import './index.css'
 
-const manifestUrl = '/tonconnect-manifest.json'
+const manifestUrl = (import.meta as any).env.BASE_URL + 'tonconnect-manifest.json'
 
 async function bootstrap() {
   const App = (await import('./App')).default

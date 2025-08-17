@@ -1,6 +1,8 @@
 {
-  "url": "https://volleyball-ideas-southwest-shaft.trycloudflare.com",
-  "name": "TonConnect smoke test",
-  "iconUrl": "https://volleyball-ideas-southwest-shaft.trycloudflare.com/icon.png"
+  "url": "https://yxx7777.github.io/ton-counter-app",
+  "name": "TON Counter dApp (Testnet)",
+  "iconUrl": "https://yxx7777.github.io/ton-counter-app/icon.png",
+  "termsOfUseUrl": "https://example.com/terms",
+  "privacyPolicyUrl": "https://example.com/privacy"
 }
 

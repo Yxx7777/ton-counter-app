@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  // IMPORTANT: set base for GitHub Pages
+  base: '/ton-counter-app/',
   plugins: [
     react(),
     {
